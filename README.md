@@ -1,1 +1,3 @@
 # Mayanmar-Sales-Data
+
+The analysis is all about the sales made in 3 different cities of Mayanmar in 2019. Data has been extracted from Kaggle for visualization which consists of 17 different variables like sales, quantity, tax payment, gender, product segment etc and have 1000 records. All the findings have been shown in form of pie-charts, different bar graphs and maps showing sales of different product segment and their quantity in different cities, revenue generated and the tax paid by users in each city and for different product segments, payment methods by users and revenue from each payment method and taxes collected. Story sheets have also been created to provide insights and necessary steps for increasing profit share and particular product ratings.
